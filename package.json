@@ -1,6 +1,6 @@
 {
-  "name": "shoppingcart",
-  "homepage": "https://amitsama.github.io/e-plantShopping",
+  "name": "eplantshopping",
+  "homepage": "https://amitsama.github.io/eplantshopping",
   "private": true,
   "version": "0.0.0",
   "type": "module",
